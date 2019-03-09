@@ -1,0 +1,48 @@
+﻿<Window x:Class="courseWork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courseWork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="792" Source="authImg.png" Stretch="Fill" Margin="-1,0,0,0"/>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="257,21,0,0" TextWrapping="Wrap" Text="Authorization" VerticalAlignment="Top" Width="224" Foreground="#FFBD3D3D" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="318,108,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="53" FontSize="18" Foreground="#FF228149"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="318,187,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="80" FontSize="18" Foreground="#FF228149"/>
+        <TextBox HorizontalAlignment="Left" Height="29" Margin="318,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="95"/>
+        <TextBox HorizontalAlignment="Left" Height="29" Margin="318,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="95"/>
+        <Button Content="Admin enter" HorizontalAlignment="Left" Height="75" Margin="129,301,0,0" VerticalAlignment="Top" Width="169" FontSize="22" Foreground="#FF2B9B49" Click="Button_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCF4242" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="User enter" HorizontalAlignment="Left" Height="75" Margin="493,301,0,0" VerticalAlignment="Top" Width="169" FontSize="22" Foreground="#FF2B9B49" Click="Button_Click_1">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCF4242" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Exit" HorizontalAlignment="Left" Height="33" Margin="658,21,0,0" VerticalAlignment="Top" Width="113" FontSize="22" Foreground="#FF2B9B49" Click="Button_Click_2">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCF4242" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

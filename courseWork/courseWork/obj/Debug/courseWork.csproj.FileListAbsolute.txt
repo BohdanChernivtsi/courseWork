@@ -1,0 +1,17 @@
+D:\Mprogrammer\courseWork\courseWork\bin\Debug\courseWork.exe.config
+D:\Mprogrammer\courseWork\courseWork\bin\Debug\courseWork.exe
+D:\Mprogrammer\courseWork\courseWork\bin\Debug\courseWork.pdb
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.csprojAssemblyReference.cache
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\MainWindow.g.cs
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\App.g.cs
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork_MarkupCompile.cache
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork_MarkupCompile.lref
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\MainWindow.baml
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.g.resources
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.Properties.Resources.resources
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.csproj.GenerateResource.cache
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.csproj.CoreCompileInputs.cache
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.exe
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\courseWork.pdb
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\Window1.g.cs
+D:\Mprogrammer\courseWork\courseWork\obj\Debug\Window1.baml
